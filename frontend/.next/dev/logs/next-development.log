@@ -1,0 +1,932 @@
+[00:00:01.499] Server  LOG      ✓ Ready in 919ms
+[00:00:03.409] Browser LOG     🔄 Iniciando busca de produtos...
+[00:00:03.660] Browser LOG     📡 Resposta da API: 200 true
+[00:00:03.660] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:00:03.660] Browser LOG     ✅ Produtos processados: 3 itens
+[00:00:03.660] Browser LOG     🏁 Busca de produtos finalizada
+[00:00:59.890] Server  LOG      ✓ Compiled in 59ms
+[00:00:59.979] Browser LOG     🔄 Iniciando busca de produtos...
+[00:01:00.493] Browser LOG     📡 Resposta da API: 200 true
+[00:01:00.494] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:01:00.494] Browser LOG     ✅ Produtos processados: 3 itens
+[00:01:00.494] Browser LOG     🏁 Busca de produtos finalizada
+[00:01:57.391] Server  LOG      ✓ Compiled in 80ms
+[00:01:57.459] Browser LOG     🔄 Iniciando busca de produtos...
+[00:01:57.940] Browser LOG     📡 Resposta da API: 200 true
+[00:01:57.940] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:01:57.940] Browser LOG     ✅ Produtos processados: 3 itens
+[00:01:57.940] Browser LOG     🏁 Busca de produtos finalizada
+[00:03:24.368] Server  LOG      ✓ Compiled in 89ms
+[00:03:24.437] Browser LOG     🔄 Iniciando busca de produtos...
+[00:03:24.815] Browser LOG     📡 Resposta da API: 200 true
+[00:03:24.815] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:03:24.815] Browser LOG     ✅ Produtos processados: 3 itens
+[00:03:24.815] Browser LOG     🏁 Busca de produtos finalizada
+[00:03:52.737] Browser LOG     🔄 Iniciando busca de produtos...
+[00:03:52.984] Browser LOG     📡 Resposta da API: 200 true
+[00:03:52.984] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:03:52.984] Browser LOG     ✅ Produtos processados: 3 itens
+[00:03:52.984] Browser LOG     🏁 Busca de produtos finalizada
+[00:04:33.665] Server  LOG      ✓ Compiled in 51ms
+[00:04:33.752] Browser LOG     🔄 Iniciando busca de produtos...
+[00:04:34.158] Browser LOG     📡 Resposta da API: 200 true
+[00:04:34.158] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:04:34.159] Browser LOG     ✅ Produtos processados: 3 itens
+[00:04:34.159] Browser LOG     🏁 Busca de produtos finalizada
+[00:04:41.213] Server  LOG      ✓ Compiled in 32ms
+[00:04:41.295] Browser LOG     🔄 Iniciando busca de produtos...
+[00:04:41.841] Browser LOG     📡 Resposta da API: 200 true
+[00:04:41.841] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:04:41.841] Browser LOG     ✅ Produtos processados: 3 itens
+[00:04:41.841] Browser LOG     🏁 Busca de produtos finalizada
+[00:04:49.091] Server  LOG      ✓ Compiled in 210ms
+[00:04:49.154] Browser LOG     🔄 Iniciando busca de produtos...
+[00:04:49.446] Browser LOG     📡 Resposta da API: 200 true
+[00:04:49.446] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:04:49.446] Browser LOG     ✅ Produtos processados: 3 itens
+[00:04:49.446] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:04.283] Server  LOG      ✓ Compiled in 43ms
+[00:05:04.376] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:04.618] Browser LOG     📡 Resposta da API: 200 true
+[00:05:04.618] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:04.618] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:04.618] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:16.651] Server  LOG      ✓ Compiled in 45ms
+[00:05:16.736] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:17.040] Browser LOG     📡 Resposta da API: 200 true
+[00:05:17.040] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:17.040] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:17.040] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:27.095] Server  LOG      ✓ Compiled in 67ms
+[00:05:27.182] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:27.424] Browser LOG     📡 Resposta da API: 200 true
+[00:05:27.425] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:27.425] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:27.425] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:31.432] Server  LOG      ✓ Compiled in 28ms
+[00:05:31.434] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:32.016] Browser LOG     📡 Resposta da API: 200 true
+[00:05:32.016] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:32.016] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:32.016] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:37.250] Server  LOG      ✓ Compiled in 54ms
+[00:05:37.335] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:37.877] Browser LOG     📡 Resposta da API: 200 true
+[00:05:37.877] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:37.877] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:37.877] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:46.607] Server  LOG      ✓ Compiled in 51ms
+[00:05:46.676] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:46.932] Browser LOG     📡 Resposta da API: 200 true
+[00:05:46.932] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:46.932] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:46.932] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:50.530] Server  LOG      ✓ Compiled in 54ms
+[00:05:50.616] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:50.796] Browser LOG     📡 Resposta da API: 200 true
+[00:05:50.796] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:50.796] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:50.796] Browser LOG     🏁 Busca de produtos finalizada
+[00:05:54.337] Server  LOG      ✓ Compiled in 51ms
+[00:05:54.441] Browser LOG     🔄 Iniciando busca de produtos...
+[00:05:54.630] Browser LOG     📡 Resposta da API: 200 true
+[00:05:54.630] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:05:54.631] Browser LOG     ✅ Produtos processados: 3 itens
+[00:05:54.631] Browser LOG     🏁 Busca de produtos finalizada
+[00:06:00.236] Server  LOG      ✓ Compiled in 48ms
+[00:06:00.331] Browser LOG     🔄 Iniciando busca de produtos...
+[00:06:00.565] Browser LOG     📡 Resposta da API: 200 true
+[00:06:00.565] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:06:00.565] Browser LOG     ✅ Produtos processados: 3 itens
+[00:06:00.565] Browser LOG     🏁 Busca de produtos finalizada
+[00:06:08.600] Server  LOG      ✓ Compiled in 35ms
+[00:06:08.707] Browser LOG     🔄 Iniciando busca de produtos...
+[00:06:08.916] Browser LOG     📡 Resposta da API: 200 true
+[00:06:08.916] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:06:08.916] Browser LOG     ✅ Produtos processados: 3 itens
+[00:06:08.916] Browser LOG     🏁 Busca de produtos finalizada
+[00:06:40.996] Browser LOG     🔄 Iniciando busca de produtos...
+[00:06:41.633] Browser LOG     📡 Resposta da API: 200 true
+[00:06:41.633] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:06:41.633] Browser LOG     ✅ Produtos processados: 3 itens
+[00:06:41.633] Browser LOG     🏁 Busca de produtos finalizada
+[00:08:31.023] Browser LOG     🔄 Iniciando busca de produtos...
+[00:08:31.286] Browser LOG     📡 Resposta da API: 200 true
+[00:08:31.286] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:08:31.286] Browser LOG     ✅ Produtos processados: 3 itens
+[00:08:31.286] Browser LOG     🏁 Busca de produtos finalizada
+[00:08:56.178] Browser LOG     🔄 Iniciando busca de produtos...
+[00:08:56.771] Browser LOG     📡 Resposta da API: 200 true
+[00:08:56.771] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:08:56.771] Browser LOG     ✅ Produtos processados: 3 itens
+[00:08:56.771] Browser LOG     🏁 Busca de produtos finalizada
+[00:09:05.255] Browser LOG     Conectado ao servidor de notificações
+[00:09:18.016] Browser ERROR   SSE Error: {"isTrusted":true}
+[00:09:27.775] Server  LOG     Tickets no estado atual: []
+[00:09:27.776] Server  LOG     Tickets como array: []
+[00:09:27.780] Server  LOG     Tickets filtrados: {}
+[00:09:28.062] Browser LOG     Tickets no estado atual: []
+[00:09:28.062] Browser LOG     Tickets como array: []
+[00:09:28.062] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":0}
+[00:09:28.062] Browser LOG     Iniciando carregamento inicial de tickets...
+[00:09:28.062] Browser LOG     Buscando tickets...
+[00:09:28.062] Browser LOG     Configurando auto-refresh a cada 5 segundos...
+[00:09:28.062] Browser LOG     Conectando ao SSE...
+[00:09:28.062] Browser LOG     SSE conectado com sucesso
+[00:09:28.062] Browser LOG     Evento SSE recebido: {"type":"connected","message":"Connected to global events"}
+[00:09:28.062] Browser LOG     Recarregando tickets devido ao evento: connected
+[00:09:28.062] Browser LOG     Buscando tickets...
+[00:09:28.300] Browser LOG     Response status: 200
+[00:09:28.300] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:28.300] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:28.300] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:28.300] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:28.300] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":1}
+[00:09:28.470] Browser LOG     Response status: 200
+[00:09:28.470] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:28.470] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:28.470] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:28.470] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:28.470] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":1}
+[00:09:29.051] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:29.051] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:29.051] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":1}
+[00:09:30.060] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:30.060] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:30.060] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":1}
+[00:09:30.977] Browser LOG     === DEBUG CLICK ===
+[00:09:30.977] Browser LOG     Ticket ID: e078ad5e-4b3a-4a43-96a5-5608227d6e10
+[00:09:30.977] Browser LOG     Status atual: waiting
+[00:09:30.977] Browser LOG     Novo status: preparing
+[00:09:30.977] Browser LOG     URL: http://localhost:4000/ticket/e078ad5e-4b3a-4a43-96a5-5608227d6e10/status
+[00:09:30.977] Browser LOG     === ATUALIZANDO STATUS ===
+[00:09:30.977] Browser LOG     ID: e078ad5e-4b3a-4a43-96a5-5608227d6e10
+[00:09:30.977] Browser LOG     Novo status: preparing
+[00:09:31.052] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:31.052] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"waiting","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:31.052] Browser LOG     Tickets filtrados: {"completed":0,"preparing":0,"waiting":1}
+[00:09:31.342] Browser LOG     Response status: 200
+[00:09:31.342] Browser LOG     Response data: {"success":true,"ticket":{"created_at":"2025-10-24T20:39:01.901048","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","number":1,"status":"preparing"}}
+[00:09:31.342] Browser LOG     ✅ Status atualizado com sucesso!
+[00:09:31.524] Browser LOG     Evento SSE recebido: {"type":"ticket_updated","ticketId":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","number":1,"status":"preparing","created_at":"2025-10-24T20:39:01.901048"}
+[00:09:31.524] Browser LOG     Recarregando tickets devido ao evento: ticket_updated
+[00:09:31.524] Browser LOG     Buscando tickets...
+[00:09:31.690] Browser LOG     Response status: 200
+[00:09:31.690] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:31.690] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:31.690] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:31.690] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:31.690] Browser LOG     Tickets filtrados: {"completed":0,"preparing":1,"waiting":0}
+[00:09:32.073] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:32.073] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:32.073] Browser LOG     Tickets filtrados: {"completed":0,"preparing":1,"waiting":0}
+[00:09:33.919] Browser LOG     === DEBUG CLICK ===
+[00:09:33.919] Browser LOG     Ticket ID: e078ad5e-4b3a-4a43-96a5-5608227d6e10
+[00:09:33.919] Browser LOG     Status atual: preparing
+[00:09:33.919] Browser LOG     Novo status: completed
+[00:09:33.919] Browser LOG     URL: http://localhost:4000/ticket/e078ad5e-4b3a-4a43-96a5-5608227d6e10/status
+[00:09:33.919] Browser LOG     === ATUALIZANDO STATUS ===
+[00:09:33.919] Browser LOG     ID: e078ad5e-4b3a-4a43-96a5-5608227d6e10
+[00:09:33.919] Browser LOG     Novo status: completed
+[00:09:34.257] Browser LOG     Response status: 200
+[00:09:34.257] Browser LOG     Response data: {"success":true,"ticket":{"created_at":"2025-10-24T20:39:01.901048","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","number":1,"status":"completed"}}
+[00:09:34.257] Browser LOG     ✅ Status atualizado com sucesso!
+[00:09:35.243] Browser LOG     Auto-refresh executando...
+[00:09:35.243] Browser LOG     Buscando tickets...
+[00:09:35.243] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.243] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.243] Browser LOG     Tickets filtrados: {"completed":0,"preparing":1,"waiting":0}
+[00:09:35.243] Browser LOG     Response status: 200
+[00:09:35.243] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:35.244] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:35.244] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"preparing","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets filtrados: {"completed":0,"preparing":1,"waiting":0}
+[00:09:35.244] Browser LOG     Evento SSE recebido: {"type":"ticket_updated","ticketId":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","number":1,"status":"completed","created_at":"2025-10-24T20:39:01.901048"}
+[00:09:35.244] Browser LOG     Recarregando tickets devido ao evento: ticket_updated
+[00:09:35.244] Browser LOG     Buscando tickets...
+[00:09:35.244] Browser LOG     Response status: 200
+[00:09:35.244] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:35.244] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:35.244] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:35.244] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.244] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:35.358] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.358] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:35.358] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:36.055] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:36.055] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:36.055] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:37.056] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:37.056] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:37.056] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:38.075] Browser LOG     Auto-refresh executando...
+[00:09:38.075] Browser LOG     Buscando tickets...
+[00:09:38.075] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:38.075] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:38.075] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:38.240] Browser LOG     Response status: 200
+[00:09:38.240] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:38.240] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:38.240] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:38.240] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:38.240] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:39.056] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:39.056] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:39.056] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:40.069] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:40.070] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:40.070] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:42.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:42.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:42.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:43.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:43.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:43.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:44.522] Browser LOG     Auto-refresh executando...
+[00:09:44.522] Browser LOG     Buscando tickets...
+[00:09:44.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:44.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:44.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:44.522] Browser LOG     Response status: 200
+[00:09:44.522] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:44.522] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:44.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:44.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:44.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:45.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:45.520] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:45.520] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:46.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:46.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:46.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:47.531] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:47.531] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:47.531] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:48.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:48.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:48.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:49.523] Browser LOG     Auto-refresh executando...
+[00:09:49.523] Browser LOG     Buscando tickets...
+[00:09:49.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:49.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:49.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:49.523] Browser LOG     Response status: 200
+[00:09:49.523] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:49.523] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:49.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:49.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:49.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:50.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:50.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:50.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:50.627] Browser LOG     🔄 Iniciando busca de produtos...
+[00:09:50.799] Browser LOG     📡 Resposta da API: 200 true
+[00:09:50.799] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:09:50.799] Browser LOG     ✅ Produtos processados: 3 itens
+[00:09:50.799] Browser LOG     🏁 Busca de produtos finalizada
+[00:09:51.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:51.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:51.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:52.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:52.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:52.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:53.530] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:53.530] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:53.530] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:54.531] Browser LOG     Auto-refresh executando...
+[00:09:54.531] Browser LOG     Buscando tickets...
+[00:09:54.531] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:54.531] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:54.531] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:54.531] Browser LOG     Response status: 200
+[00:09:54.531] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:54.531] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:54.531] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:54.531] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:54.531] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:55.741] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:55.741] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:55.741] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:56.532] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:56.532] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:56.532] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:57.533] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:57.533] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:57.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:58.532] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:58.532] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:58.532] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:59.522] Browser LOG     Auto-refresh executando...
+[00:09:59.523] Browser LOG     Buscando tickets...
+[00:09:59.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:59.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:59.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:09:59.523] Browser LOG     Response status: 200
+[00:09:59.523] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:09:59.523] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:09:59.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:59.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:09:59.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:00.533] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:00.533] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:00.533] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:01.530] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:01.530] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:01.530] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:02.524] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:02.524] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:02.524] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:03.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:03.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:03.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:04.524] Browser LOG     Auto-refresh executando...
+[00:10:04.525] Browser LOG     Buscando tickets...
+[00:10:04.525] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:04.525] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:04.525] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:04.525] Browser LOG     Response status: 200
+[00:10:04.525] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:04.525] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:04.525] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:04.525] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:04.525] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:05.533] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:05.533] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:05.533] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:06.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:06.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:06.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:07.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:07.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:07.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:08.536] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:08.536] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:08.536] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:09.521] Browser LOG     Auto-refresh executando...
+[00:10:09.522] Browser LOG     Buscando tickets...
+[00:10:09.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:09.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:09.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:09.522] Browser LOG     Response status: 200
+[00:10:09.522] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:09.522] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:09.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:09.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:09.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:10.524] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:10.524] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:10.524] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:11.529] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:11.529] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:11.529] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:12.532] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:12.532] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:12.532] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:13.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:13.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:13.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:14.520] Browser LOG     Auto-refresh executando...
+[00:10:14.521] Browser LOG     Buscando tickets...
+[00:10:14.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:14.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:14.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:14.521] Browser LOG     Response status: 200
+[00:10:14.521] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:14.521] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:14.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:14.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:14.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:15.534] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:15.534] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:15.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:16.533] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:16.533] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:16.533] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:17.614] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:17.615] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:17.615] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:18.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:18.520] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:18.520] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:19.523] Browser LOG     Auto-refresh executando...
+[00:10:19.523] Browser LOG     Buscando tickets...
+[00:10:19.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:19.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:19.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:19.523] Browser LOG     Response status: 200
+[00:10:19.523] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:19.523] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:19.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:19.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:19.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:20.535] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:20.535] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:20.535] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:21.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:21.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:21.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:22.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:22.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:22.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:23.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:23.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:23.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:24.526] Browser LOG     Auto-refresh executando...
+[00:10:24.527] Browser LOG     Buscando tickets...
+[00:10:24.527] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:24.527] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:24.527] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:24.527] Browser LOG     Response status: 200
+[00:10:24.527] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:24.527] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:24.527] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:24.527] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:24.527] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:25.528] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:25.528] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:25.528] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:26.529] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:26.529] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:26.529] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:27.531] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:27.531] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:27.531] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:28.533] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:28.533] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:28.533] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:29.534] Browser LOG     Auto-refresh executando...
+[00:10:29.534] Browser LOG     Buscando tickets...
+[00:10:29.534] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:29.534] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:29.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:29.534] Browser LOG     Response status: 200
+[00:10:29.534] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:29.534] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:29.534] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:29.534] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:29.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:30.523] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:30.523] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:30.523] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:31.537] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:31.537] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:31.537] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:32.527] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:32.527] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:32.528] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:33.531] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:33.531] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:33.531] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:34.535] Browser LOG     Auto-refresh executando...
+[00:10:34.535] Browser LOG     Buscando tickets...
+[00:10:34.535] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:34.535] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:34.535] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:34.535] Browser LOG     Response status: 200
+[00:10:34.535] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:34.535] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:34.535] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:34.535] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:34.535] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:35.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:35.520] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:35.520] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:36.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:36.520] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:36.520] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:37.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:37.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:37.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:38.520] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:38.520] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:38.520] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:39.521] Browser LOG     Auto-refresh executando...
+[00:10:39.521] Browser LOG     Buscando tickets...
+[00:10:39.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:39.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:39.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:39.521] Browser LOG     Response status: 200
+[00:10:39.521] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:10:39.521] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:10:39.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:39.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:39.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:10:40.521] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:40.521] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:10:40.521] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:11:32.522] Browser LOG     Auto-refresh executando...
+[00:11:32.522] Browser LOG     Buscando tickets...
+[00:11:32.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:11:32.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:11:32.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:11:32.522] Browser LOG     Response status: 200
+[00:11:32.522] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:11:32.522] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:11:32.522] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:11:32.522] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:11:32.522] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:12:32.534] Browser LOG     Auto-refresh executando...
+[00:12:32.534] Browser LOG     Buscando tickets...
+[00:12:32.534] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:12:32.534] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:12:32.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:12:32.534] Browser LOG     Response status: 200
+[00:12:32.534] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:12:32.534] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:12:32.534] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:12:32.534] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:12:32.534] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:13:32.523] Browser LOG     Auto-refresh executando...
+[00:13:32.523] Browser LOG     Buscando tickets...
+[00:13:32.524] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:13:32.524] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:13:32.524] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:13:32.524] Browser LOG     Response status: 200
+[00:13:32.524] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:13:32.524] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:13:32.524] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:13:32.524] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:13:32.524] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:14:32.530] Browser LOG     Auto-refresh executando...
+[00:14:32.530] Browser LOG     Buscando tickets...
+[00:14:32.530] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:14:32.530] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:14:32.530] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:14:32.530] Browser LOG     Response status: 200
+[00:14:32.530] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:14:32.530] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:14:32.530] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:14:32.530] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:14:32.530] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:15:32.528] Browser LOG     Auto-refresh executando...
+[00:15:32.528] Browser LOG     Buscando tickets...
+[00:15:32.528] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:15:32.528] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:15:32.528] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:15:32.528] Browser LOG     Response status: 200
+[00:15:32.528] Browser LOG     Tickets recebidos: {"success":true,"tickets":[{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]}
+[00:15:32.528] Browser LOG     Tickets atualizados no estado: 1 tickets
+[00:15:32.528] Browser LOG     Tickets no estado atual: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:15:32.528] Browser LOG     Tickets como array: [{"created_at":"2025-10-24T20:39:01.901048","customer_name":"aaa","id":"e078ad5e-4b3a-4a43-96a5-5608227d6e10","items":[{"product_id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","product_name":"Fraldinha","quantity":1,"total_price":35,"unit_price":35}],"number":1,"order":{"customer_name":"aaa"},"status":"completed","store":{"name":"Açougue Carne Fácil"},"total_amount":35}]
+[00:15:32.528] Browser LOG     Tickets filtrados: {"completed":1,"preparing":0,"waiting":0}
+[00:15:50.913] Server  LOG      ✓ Compiled in 482ms
+[00:15:52.600] Browser LOG     Refreshing page data due to server-side change
+[00:15:52.600] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:55.913] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:55.914] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:57.776] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:57.777] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:58.086] Browser ERROR   uncaughtError: Error: ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+
+[00:15:58.219] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:58.323] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:58.526] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:15:58.526] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:43.434] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:43.521] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:455:10
+Parsing ecmascript source code failed
+  453 |             </div>
+  454 |           </div>
+> 455 |         )}
+      |          ^
+  456 |         
+  457 |         {/* Instruções */}
+  458 |         <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:51.534] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:51.534] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:437:12
+Parsing ecmascript source code failed
+  435 |               </div>
+  436 |             </div>
+> 437 |           </div>
+      |            ^^^^^
+  438 |         )}
+  439 |         
+  440 |         {/* Instruções */}
+
+Unterminated regexp literal
+[00:17:51.534] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:51.534] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:437:12
+Parsing ecmascript source code failed
+  435 |               </div>
+  436 |             </div>
+> 437 |           </div>
+      |            ^^^^^
+  438 |         )}
+  439 |         
+  440 |         {/* Instruções */}
+
+Unterminated regexp literal
+[00:17:51.644] Browser ERROR   uncaughtError: Error: ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+
+
+[00:17:51.853] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:51.853] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:437:12
+Parsing ecmascript source code failed
+  435 |               </div>
+  436 |             </div>
+> 437 |           </div>
+      |            ^^^^^
+  438 |         )}
+  439 |         
+  440 |         {/* Instruções */}
+
+Unterminated regexp literal
+[00:17:51.853] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:51.853] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:437:12
+Parsing ecmascript source code failed
+  435 |               </div>
+  436 |             </div>
+> 437 |           </div>
+      |            ^^^^^
+  438 |         )}
+  439 |         
+  440 |         {/* Instruções */}
+
+Unterminated regexp literal
+[00:17:52.524] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:434:18
+Parsing ecmascript source code failed
+  432 |           </div>
+  433 |         )}
+> 434 |                 )}
+      |                  ^
+  435 |               </div>
+  436 |             </div>
+  437 |           </div>
+
+Unexpected token. Did you mean `{'}'}` or `&rbrace;`?
+[00:17:52.524] Browser ERROR   ./projects/carne-facil/frontend/pages/index.js:437:12
+Parsing ecmascript source code failed
+  435 |               </div>
+  436 |             </div>
+> 437 |           </div>
+      |            ^^^^^
+  438 |         )}
+  439 |         
+  440 |         {/* Instruções */}
+
+Unterminated regexp literal
+[00:19:43.598] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:19:43.836] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:19:44.382] Browser LOG     🔄 Iniciando busca de produtos...
+[00:19:44.914] Browser LOG     📡 Resposta da API: 200 true
+[00:19:44.914] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:19:44.914] Browser LOG     ✅ Produtos processados: 3 itens
+[00:19:44.914] Browser LOG     🏁 Busca de produtos finalizada
+[00:24:39.931] Browser LOG     🔄 Iniciando busca de produtos...
+[00:24:40.666] Browser LOG     📡 Resposta da API: 200 true
+[00:24:40.666] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:24:40.666] Browser LOG     ✅ Produtos processados: 3 itens
+[00:24:40.666] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:10.300] Server  LOG      ✓ Compiled in 85ms
+[00:28:10.417] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:11.115] Browser LOG     📡 Resposta da API: 200 true
+[00:28:11.115] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:11.115] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:11.115] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:13.880] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:14.182] Browser LOG     📡 Resposta da API: 200 true
+[00:28:14.182] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:14.182] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:14.182] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:25.019] Server  LOG      ✓ Compiled in 107ms
+[00:28:25.114] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:25.379] Browser LOG     📡 Resposta da API: 200 true
+[00:28:25.379] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:25.379] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:25.379] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:31.240] Server  LOG      ✓ Compiled in 156ms
+[00:28:31.366] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:31.616] Browser LOG     📡 Resposta da API: 200 true
+[00:28:31.616] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:31.616] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:31.616] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:34.846] Server  LOG      ✓ Compiled in 58ms
+[00:28:34.952] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:35.175] Browser LOG     📡 Resposta da API: 200 true
+[00:28:35.175] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:35.175] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:35.175] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:38.473] Server  LOG      ✓ Compiled in 73ms
+[00:28:38.556] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:38.781] Browser LOG     📡 Resposta da API: 200 true
+[00:28:38.781] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:38.782] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:38.782] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:43.673] Server  LOG      ✓ Compiled in 85ms
+[00:28:43.795] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:44.051] Browser LOG     📡 Resposta da API: 200 true
+[00:28:44.051] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:44.051] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:44.051] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:45.697] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:45.902] Browser LOG     📡 Resposta da API: 200 true
+[00:28:45.902] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:45.902] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:45.902] Browser LOG     🏁 Busca de produtos finalizada
+[00:28:49.381] Browser LOG     🔄 Iniciando busca de produtos...
+[00:28:49.662] Browser LOG     📡 Resposta da API: 200 true
+[00:28:49.662] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:28:49.662] Browser LOG     ✅ Produtos processados: 3 itens
+[00:28:49.662] Browser LOG     🏁 Busca de produtos finalizada
+[00:30:14.234] Server  LOG      ✓ Compiled in 109ms
+[00:30:14.309] Browser LOG     🔄 Iniciando busca de produtos...
+[00:30:15.026] Browser LOG     📡 Resposta da API: 200 true
+[00:30:15.026] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:30:15.026] Browser LOG     ✅ Produtos processados: 3 itens
+[00:30:15.026] Browser LOG     🏁 Busca de produtos finalizada
+[00:31:46.635] Server  LOG      ✓ Compiled in 69ms
+[00:31:46.698] Browser LOG     🔄 Iniciando busca de produtos...
+[00:31:47.173] Browser LOG     📡 Resposta da API: 200 true
+[00:31:47.173] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:31:47.173] Browser LOG     ✅ Produtos processados: 3 itens
+[00:31:47.173] Browser LOG     🏁 Busca de produtos finalizada
+[00:32:07.565] Server  LOG      ✓ Compiled in 162ms
+[00:32:07.631] Browser LOG     🔄 Iniciando busca de produtos...
+[00:32:07.897] Browser LOG     📡 Resposta da API: 200 true
+[00:32:07.897] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:32:07.897] Browser LOG     ✅ Produtos processados: 3 itens
+[00:32:07.897] Browser LOG     🏁 Busca de produtos finalizada
+[00:32:22.204] Browser LOG     🔄 Iniciando busca de produtos...
+[00:32:22.855] Browser LOG     📡 Resposta da API: 200 true
+[00:32:22.855] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:32:22.855] Browser LOG     ✅ Produtos processados: 3 itens
+[00:32:22.855] Browser LOG     🏁 Busca de produtos finalizada
+[00:32:34.685] Server  LOG      ✓ Compiled in 73ms
+[00:32:34.771] Browser LOG     🔄 Iniciando busca de produtos...
+[00:32:35.032] Browser LOG     📡 Resposta da API: 200 true
+[00:32:35.032] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:32:35.032] Browser LOG     ✅ Produtos processados: 3 itens
+[00:32:35.032] Browser LOG     🏁 Busca de produtos finalizada
+[00:32:52.329] Server  LOG      ✓ Compiled in 71ms
+[00:32:52.448] Browser LOG     🔄 Iniciando busca de produtos...
+[00:32:52.696] Browser LOG     📡 Resposta da API: 200 true
+[00:32:52.696] Browser LOG     📦 Dados recebidos: {"products":[{"active":true,"description":"Fraldinha suculenta para churrasco","id":"4520b08f-5568-4eaf-b48a-9d89eed1d0a0","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/fraldinha.jpg","name":"Fraldinha","price":35,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Alcatra macia e saborosa","id":"a43098f7-472b-4f8b-bc92-aac36f042f50","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/alcatra.jpg","name":"Alcatra","price":38,"store_id":null,"unit_type":"0.5kg"},{"active":true,"description":"Costela bovina para assado","id":"c2ff54ef-0e74-4ad6-9551-6fdcb086d488","image_url":"https://tksuriobcmlsqzwnrwxm.supabase.co/storage/v1/object/public/product-images/costela.jpg","name":"Costela","price":28,"store_id":null,"unit_type":"0.5kg"}],"success":true}
+[00:32:52.696] Browser LOG     ✅ Produtos processados: 3 itens
+[00:32:52.696] Browser LOG     🏁 Busca de produtos finalizada
